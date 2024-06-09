@@ -1,1 +1,5 @@
-# Scrape-the-Web
+## Requirements
+
+```
+pip install Selenium
+```
